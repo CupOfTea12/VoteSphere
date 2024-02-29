@@ -1,0 +1,2 @@
+# VoteSphere
+projekt na OOP
